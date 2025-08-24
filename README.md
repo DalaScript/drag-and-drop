@@ -32,8 +32,8 @@
 
 ### 🔗 Links
 
- - [🔴 Live Demo](https://dalascript.github.io/drag-and-drop/)
- - [🗂️ GitHub Repository](https://github.com/DalaScript/drag-and-drop)
+  - [🔴 Live Demo](https://dalascript.github.io/drag-and-drop/)
+  - [🗂️ GitHub Repository](https://github.com/DalaScript/drag-and-drop)
 
 ### 📌 Features
 
@@ -61,15 +61,17 @@
 
 ### 🔙 Previous Project
 
- - Math Sprint Game | *[Project 15/20]* → [View Repository](https://github.com/DalaScript/math-sprint-game)
+  - Math Sprint Game | *[Project 15/20]* → [View Repository](https://github.com/DalaScript/math-sprint-game)
 
 ### 🔜 Next Project
 
- - Calculator | *[Project 17/20]* → [View Repository](https://github.com/DalaScript/calculator)
+  - Calculator | *[Project 17/20]* → [View Repository](https://github.com/DalaScript/calculator)
 
 ### 🗃️ Useful resources
 
- - []()
+  - [](https://css-tricks.com/the-current-state-of-styling-scrollbars-in-css/)
+  - []()
+  - []()
 
 ---
 
@@ -77,13 +79,13 @@
 
 ### 🌐 Connect with Me
 
- - [Instagram](https://www.instagram.com/DalaScript)
- - [YouTube](https://www.youtube.com/@DalaScript)
+  - [Instagram](https://www.instagram.com/DalaScript)
+  - [YouTube](https://www.youtube.com/@DalaScript)
 
 ### 💻 Coding Profiles
 
- - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
- - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
- - [GitHub](https://github.com/DalaScript)
+  - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
+  - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
+  - [GitHub](https://github.com/DalaScript)
 
 *🙌 Thanks for checking out my project! More coming soon. Stay tuned 🚀*
