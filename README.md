@@ -2,7 +2,7 @@
 
 **Project 16/20**
 
-**In Process**
+A fully interactive **Kanban Board** with drag-and-drop functionality that lets you organize tasks across different columns: *Backlog*, *Progress*, *Complete*, and *On Hold*. Tasks are saved to **localStorage**, so your board state is preserved even after refreshing the page.
 
 ---
 
@@ -12,12 +12,12 @@
   - [📸 Screenshot](#-screenshot)
   - [🔗 Links](#-links)
   - [📌 Features](#-features)
-- [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
+- [🧠 My process](#-my-process)
   - [🎓 What I learned](#-what-i-learned)
+  - [🗃️ Useful resources](#️-useful-resources)
   - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
-  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -37,19 +37,25 @@
 
 ### 📌 Features
 
-  **In Process**
+  - ✅ Drag-and-drop tasks between columns
+  - ✅ Editable tasks directly inside the board
+  - ✅ Add new tasks dynamically with inline input fields
+  - ✅ Delete tasks by clearing their text
+  - ✅ State persistence using `localStorage`
+  - ✅ Responsive design for desktop and mobile
+  - ✅ Smooth user experience with custom scrollbar and animations
+
+### 🛠️ Built with
+
+  - HTML5
+  - CSS3
+  - JavaScript
 
 ---
 
 ## 🧠 My Process
 
-### 🛠️ Built with
-
-  **In Process**
-
 ### 🎓 What I Learned
-
-  **In Process**
 
   > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
   > rather than learning something entirely new.  
@@ -59,6 +65,17 @@
   >  
   > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
 
+### 🗃️ Useful resources
+
+  - [CSS-Tricks – Styling Scrollbars](https://css-tricks.com/the-current-state-of-styling-scrollbars-in-css/)
+  - [W3Schools – HTML5 Drag & Drop](https://www.w3schools.com/html/html5_draganddrop.asp)
+  - [W3Schools – ondragenter Event](https://www.w3schools.com/tags/att_ondragenter.asp)
+  - [MDN – Array.push()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+  - [MDN – contenteditable](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/contenteditable)
+  - [MDN – focusout Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/focusout_event)
+  - [MDN – Array.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+  - [StackOverflow – map/reduce vs for loops](https://stackoverflow.com/questions/29640254/when-why-to-use-map-reduce-over-for-loops)
+
 ### 🔙 Previous Project
 
   - Math Sprint Game | *[Project 15/20]* → [View Repository](https://github.com/DalaScript/math-sprint-game)
@@ -66,12 +83,6 @@
 ### 🔜 Next Project
 
   - Calculator | *[Project 17/20]* → [View Repository](https://github.com/DalaScript/calculator)
-
-### 🗃️ Useful resources
-
-  - [](https://css-tricks.com/the-current-state-of-styling-scrollbars-in-css/)
-  - []()
-  - []()
 
 ---
 
