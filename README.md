@@ -67,11 +67,11 @@ A fully interactive **Kanban Board** with drag-and-drop functionality that lets 
 
 ### 🔙 Previous Project
 
-- Math Sprint Game | *[Project 15/20]* → [View Repository](https://github.com/DalaScript/math-sprint-game)
+- Math Sprint Game | *Project 15/20* → [View Repository](https://github.com/DalaScript/math-sprint-game)
 
 ### 🔜 Next Project
 
-- Calculator | *[Project 17/20]* → [View Repository](https://github.com/DalaScript/calculator)
+- Calculator | *Project 17/20* → [View Repository](https://github.com/DalaScript/calculator)
 
 ---
 
